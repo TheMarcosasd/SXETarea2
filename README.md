@@ -32,4 +32,16 @@ Al ser creado no se arranca automaticamente, lo sabremos al usar el comando "doc
 
 ![Screenshot_20241017_125934](https://github.com/user-attachments/assets/9a79ee59-0553-49f2-92d4-75e30c720d20)
 
-El nombre dado al contenedor creado es condesce
+El nombre dado al contenedor creado es condescescending_goldstine
+
+Ahora tenemos que crear un contenedor llamado dam_alp1 con la imagen alpine
+
+![Screenshot_20241021_101858](https://github.com/user-attachments/assets/bd2673d0-9bf6-4062-81e8-0455fba53cd6)
+
+Y accedemos al contenedor
+
+![Screenshot_20241021_105432](https://github.com/user-attachments/assets/e79ac9a6-5ac8-4507-acc4-d5872bc4aa2c)
+
+
+
+
